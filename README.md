@@ -1,1 +1,3 @@
-# customer-acquisition
+# customer-acquisition  
+
+Managing customer retention and acquisition is essential for developing and maintaining customer relationships. The acquisitionRetention dataset used in this study comes from the SMRCM package in R which is used to train logistic regression, decision tree and random forest models to predict which customers will be acquired. A logistic regression model outperformed all other models, achieving an accuracy rate of 83.84%. The most significant predictors were industry (1 if B2B customer, 0 otherwise), revenue (annual sales revenue of the prospect’s firm), and employees (number of employees in the prospect’s firm).
